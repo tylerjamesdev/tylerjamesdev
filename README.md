@@ -1,4 +1,4 @@
 ## 👋 Hi, I'm Tyler
 
-I am a backend developer who is not that bad at frontend.<br/>
-I enjoy the entire tech stack, architecture, and engineering robust solutions.<br/>
+I am a Full Stack Developer currently focused on mastering Go.<br/>
+I enjoy all aspects of software development, from system architecture to UI/UX design.<br/>
